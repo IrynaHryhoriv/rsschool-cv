@@ -34,6 +34,7 @@ Git, Java, JS, Selenium, Cypress, Node.js, Slack.
 
 Code 
 ----
+
 ```
 const rps = (p1, p2) => {
   if(p1===p2){
