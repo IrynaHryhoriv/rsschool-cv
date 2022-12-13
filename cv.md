@@ -1,13 +1,15 @@
-![MyPhoto](assets/img/Hello.png "MyPhoto")
 
-Iryna Hryhoriv <span style="color:blue">Iryna Hryhoriv</span>.
+ <img src="assets/img/imagesCVtest.jpeg" alt="alt text" title="MyPhoto" width="150"/>
+
+Iryna Hryhoriv 
 ==============
+
 ---------------------     ---------------------
 
 Contact information:
 --------------------
 1. **Location:**  Irvine, USA
-2. **E-mail:**    irina.hr@gmail.com
+2. **E-mail:**    iryna.hryhoriv1@gmail.com
 3. **Telegram:** @Iryna_Black
 4. **Discord:**   IrynaBlack#8346
 
@@ -16,14 +18,13 @@ Focused on creating collaborative effort and between support and engineering tea
 or product level changes to benefit end users. Ability to learn quickly, often in high pressure situations, in
 order to fully understand a new product, platform or any mixture of the two.
 I carefully check the smallest details, do an excellent cope with several tasks at once. I like to write clear,
-structured documents
-TBD
+structured documents.
 
 ---------------------------------------------------
 
-
 Skills
 ------
+
 Data Bases: SQL.
 
 Git, Java, JS, Selenium, Cypress, Node.js, Slack.
@@ -55,8 +56,10 @@ Education
 Experience
 ----------
 **Job search**
+
 Languages:
 ----------
+
     1. English   - Intermediate
     2. Ukrainian - Native
     3. Russian   - Native
@@ -64,10 +67,12 @@ Languages:
 
 
 ----------------------------------------------------
-<span style="font-family:Papyrus; font-size:4em;">2022!</span>
-![rsschool](assets/img/rs_school_js.svg "RSSchool")
-![GitHub](assets/img/GitHub.jpeg "GH")
-[GitHublink][https://github.com/IrynaHryhoriv/rsschool-cv]
-![MyPhoto](assets/img/Hello.png "MyPhoto")
-![Alt-rss](https://rs.school/js/)
-[rsslink][https://rs.school/js/"]
+<span style="font-family:Papyrus; font-size:4em;">2022</span> 
+
+<img src="assets/img/RSSchool.jpg" alt="alt text" title="image Title" width="150"/>
+
+[![(assets/img/RSSchool.jpg)](assets/img/RSSchool.jpg )](https://rs.school/js/)
+[![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv)
+
+
+
