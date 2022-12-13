@@ -1,19 +1,15 @@
-Iryna Hryhoriv 
+![MyPhoto](assets/img/Hello.png "MyPhoto")
+
+Iryna Hryhoriv <span style="color:blue">Iryna Hryhoriv</span>.
 ==============
 ---------------------     ---------------------
 
 Contact information:
 --------------------
-
-**Location:**  Irvine, USA
-
-**E-mail:**    irina.hr@gmail.com
-
-**GitHub:**    IrynaHryhoriv
-
-**Telegram:** @Iryna_Black
-
-**Discord:**   IrynaBlack#8346
+1. **Location:**  Irvine, USA
+2. **E-mail:**    irina.hr@gmail.com
+3. **Telegram:** @Iryna_Black
+4. **Discord:**   IrynaBlack#8346
 
 ---------------------     ----------------------
 Focused on creating collaborative effort and between support and engineering teams to implement system
@@ -61,6 +57,17 @@ Experience
 **Job search**
 Languages:
 ----------
-    * English   - Intermediate
-    * Ukrainian - Native
-    * Russian   - Native
+    1. English   - Intermediate
+    2. Ukrainian - Native
+    3. Russian   - Native
+   
+
+
+----------------------------------------------------
+<span style="font-family:Papyrus; font-size:4em;">2022!</span>
+![rsschool](assets/img/rs_school_js.svg "RSSchool")
+![GitHub](assets/img/GitHub.jpeg "GH")
+[GitHublink][https://github.com/IrynaHryhoriv/rsschool-cv]
+![MyPhoto](assets/img/Hello.png "MyPhoto")
+![Alt-rss](https://rs.school/js/)
+[rsslink][https://rs.school/js/"]
