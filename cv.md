@@ -89,7 +89,7 @@ Languages:
 
 ---------------------
 
-<footer>
+
 <p style="float:left; width: 20%;">
 <span style="font-family:Papyrus; font-size:2em;">2022</span></p>
 
@@ -106,4 +106,3 @@ Languages:
 [![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages)
 
 </p>
-</footer>
