@@ -20,15 +20,14 @@
 4. **Discord:**   IrynaBlack#8346
 
 ---------------------     ---------------------
-<main>
+
 <p><h3>Focused on creating collaborative effort and between support and engineering teams to implement system
 or product level changes to benefit end users. Ability to learn quickly, often in high pressure situations, in
 order to fully understand a new product, platform or any mixture of the two.
 I carefully check the smallest details, do an excellent cope with several tasks at once. I like to write clear,
 structured documents.<h3></p>
-</main>
 
----------------------------------------------------
+---------------------
 
 <h2>Skills</h2>
 
@@ -72,6 +71,8 @@ const rps = (p1, p2) => {
   }
 };
 ```
+
+
 <h2>Education</h2>
 
 <p><h3>2022-2023 (expected)
@@ -87,9 +88,7 @@ const rps = (p1, p2) => {
     2. Ukrainian - Native
     3. Russian   - Native
 
-   
-
-----------------------------------------------------
+---------------------
 
 <footer>
 
@@ -97,11 +96,11 @@ const rps = (p1, p2) => {
 <span style="font-family:Papyrus; font-size:2em;">2022</span>
 </p>
 
-<p style="float:left; width:0%; text-align:center;">
+<p style="float:left; width:60%; text-align:center;">
 
 [![(assets/img/RSSchool.jpg)](assets/img/RSSchoollogosmall.jpg )](https://rs.school/js/)
 </p>
-<p style="float:left; width: 40%; text-align:center;">
+<p style="float:left; width: 60%; text-align:center;">
 
 
 [![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages)
