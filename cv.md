@@ -1,4 +1,9 @@
-
+[schoolLogo]: /assets/img/RSSchoollogosmall.jpg
+[schoolLink]: https://rs.school/js/
+[githubLogo]: /assets/img/GitHub.jpeg
+[githubLink]: https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages
+ 
+ 
  <header>
  <p style="float:left; width: 20%;">
 <img src="assets/img/imagesCVtest.jpeg" alt="alt text" title="MyPhoto" width="100"/>
@@ -94,10 +99,10 @@ Languages:
 <span style="font-family:Papyrus; font-size:2em;">2022</span></p>
 
 
+<footer>
 
-[![](./assets/img/RSSchoollogosmall.jpg)](https://rs.school/js/)
+[![][schoolLogo]][schoolLink]
 
+[![][githubLogo]][githubLink]
 
-[![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages)
-
-
+</footer>
