@@ -2,21 +2,20 @@
 [schoolLink]: https://rs.school/js/
 [githubLogo]: /assets/img/GitHub.jpeg
 [githubLink]: https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages
- 
- 
- <header>
- <p style="float:left; width: 20%;">
-<img src="assets/img/imagesCVtest.jpeg" alt="alt text" title="MyPhoto" width="100"/>
 
-</p>
-<p style="float:left; width: 40%; text-align:left;">
-<h1>Iryna Hryhoriv</h1> 
-<br><br><br><br>
-</p>
- </header>
  
----------------------
+<header>
+  <p style="float:left; width: 20%;">
+    <img src="assets/img/imagesCVtest.jpeg" alt="alt text" title="MyPhoto" width="100"/>
+  </p>
 
+  <p style="float:left; width: 40%; text-align:left;">
+    <h1>Iryna Hryhoriv</h1> 
+    <div style="height:50px;display:box"></div>
+  </p>
+</header>
+ 
+---
 Contact information:
 --------------------
 
@@ -25,7 +24,7 @@ Contact information:
 3. **Telegram:** @Iryna_Black
 4. **Discord:**   IrynaBlack#8346
 
----------------------     ---------------------
+---
 
 Focused on creating collaborative effort and between support and engineering teams to implement system
 or product level changes to benefit end users. Ability to learn quickly, often in high pressure situations, in
@@ -33,14 +32,14 @@ order to fully understand a new product, platform or any mixture of the two.
 I carefully check the smallest details, do an excellent cope with several tasks at once. I like to write clear,
 structured documents.
 
----------------------
+---
 
 Skills
 ------
 
 <nav>
 
-  <a href="html">HTML</a> |
+  <a href="https://html.com">HTML</a> |
   <a href="/css/">CSS</a> |
   <a href="/js/">JavaScript</a> |
   <a href="/python/">Python</a> |
@@ -56,7 +55,7 @@ Skills
 
 Code 
 ----
-```
+```js
 const rps = (p1, p2) => {
   if(p1===p2){
     return "Draw!"}
@@ -74,8 +73,7 @@ const rps = (p1, p2) => {
 
 Education
 ---------
-2022-2023 (expected)
-:   **Master, Computer Science in JS/FE**; [RS School](https://rs.school/).
+2022-2023 (expected): **Master, Computer Science in JS/FE**; [RS School](https://rs.school/).
 
 Experience
 ----------
@@ -87,14 +85,14 @@ Experience
 Languages:
 ----------
 
-
     * English   - Intermediate
     * Ukrainian - Native
     * Russian   - Native
 
 ---------------------
 
-
-<span style="font-family:Papyrus; font-size:2em;">2022</span>&ensp;&emsp;&ensp;
-[![][schoolLogo]][schoolLink]&ensp;&emsp;&ensp;[![][githubLogo]][githubLink]
+|      |      |      |
+| :--- |  --- | ---: |
+| 2022 |[![][schoolLogo]][schoolLink] |
+|      |[![][githubLogo]][githubLink] |
 
