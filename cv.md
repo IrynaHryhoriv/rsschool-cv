@@ -1,4 +1,9 @@
-
+[schoolLogo]: /assets/img/RSSchoollogosmall.jpg
+[schoolLink]: https://rs.school/js/
+[githubLogo]: /assets/img/GitHub.jpeg
+[githubLink]: https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages
+ 
+ 
  <header>
  <p style="float:left; width: 20%;">
 <img src="assets/img/imagesCVtest.jpeg" alt="alt text" title="MyPhoto" width="100"/>
@@ -95,9 +100,7 @@ Languages:
 
 
 
-[![](./assets/img/RSSchoollogosmall.jpg)](https://rs.school/js/)
+[![][schoolLogo]][schoolLink]
 
-
-[![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages)
-
+[![][githubLogo]][githubLink]
 
