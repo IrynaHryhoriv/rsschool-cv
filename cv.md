@@ -32,9 +32,22 @@ structured documents.
 
 Skills
 ------
-Data Bases: SQL.
 
-Git, Java, JS, Selenium, Cypress, Node.js, Slack.
+<nav>
+
+  <a href="html">HTML</a> |
+  <a href="/css/">CSS</a> |
+  <a href="/js/">JavaScript</a> |
+  <a href="/python/">Python</a> |
+  <a href="/git/">Git</a> |
+  <a href="/sql/">SQL</a> |
+  <a href="/Node.js/">Node.js</a> |
+  <a href="/java/">Java</a> |
+  <a href="/Selenium/">Selenium</a> 
+
+</nav>
+
+<br>
 
 Code 
 ----
