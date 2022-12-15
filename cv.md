@@ -81,15 +81,14 @@ const rps = (p1, p2) => {
 <p><h3>Job search</h3></p>
 
 <h2>Languages:<h2>
-    <ol><h3>
-    <li> English   - Intermediate</li>
-    <li> Ukrainian - Native</li>
-    <li> Russian   - Native</li>
+    
+    1. English   - Intermediate
+    2. Ukrainian - Native
+    3. Russian   - Native
 
-   </h4></ol>
+   
 
 ----------------------------------------------------
-
 
 <footer>
 
