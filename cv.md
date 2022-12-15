@@ -70,13 +70,19 @@ const rps = (p1, p2) => {
 Education
 ---------
 2022-2023 (expected)
-:   **Master, Computer Science in JS/FE**; RS SCHOOL [RS School](https://rs.school/).
+:   **Master, Computer Science in JS/FE**; [RS School](https://rs.school/).
 
 Experience
 ----------
+
+
 **Job search**
+
+
 Languages:
 ----------
+
+
     * English   - Intermediate
     * Ukrainian - Native
     * Russian   - Native
@@ -84,19 +90,19 @@ Languages:
 ---------------------
 
 <footer>
-
 <p style="float:left; width: 20%;">
-<span style="font-family:Papyrus; font-size:2em;">2022</span>
-</p>
+<span style="font-family:Papyrus; font-size:2em;">2022</span></p>
 
 <p style="float:left; width:60%; text-align:center;">
 
-[![(assets/img/RSSchool.jpg)](assets/img/RSSchoollogosmall.jpg )](https://rs.school/js/)
-</p>
+
+[![(assets/img/RSSchool.jpg)](assets/img/RSSchoollogosmall.jpg )](https://rs.school/js/)</p>
+
+
 <p style="float:left; width: 20%;">
 
 
 [![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages)
-</p>
 
+</p>
 </footer>
