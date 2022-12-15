@@ -94,15 +94,7 @@ Languages:
 
 ---------------------
 
-<footer>
 
-<span style="font-family:Papyrus; font-size:2em;">2022</span>
+<span style="font-family:Papyrus; font-size:2em;">2022</span>&ensp;&emsp;&ensp;
+[![][schoolLogo]][schoolLink]&ensp;&emsp;&ensp;[![][githubLogo]][githubLink]
 
-
-
-[![][schoolLogo]][schoolLink]
-
-[![][githubLogo]][githubLink]
-
-
-</footer>
