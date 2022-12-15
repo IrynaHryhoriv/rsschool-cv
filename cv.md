@@ -1,36 +1,43 @@
 
- 
- 
- <img src="assets/img/imagesCVtest.jpeg" alt="alt text" title="MyPhoto" width="100"/>&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Iryna Hryhoriv 
-==============
----------------------
+ <header>
+ <p style="float:left; width: 20%;">
+<img src="assets/img/imagesCVtest.jpeg" alt="alt text" title="MyPhoto" width="100"/>
 
-Contact information:
---------------------
+</p>
+<p style="float:left; width: 40%; text-align:left;">
+<h1>Iryna Hryhoriv</h1> 
+<br><br><br><br>
+</p>
+ </header>
+ 
+---------------------
+<main>
+<h2>Contact information:<h2>
+
 1. **Location:**  Irvine, USA
 2. **E-mail:**    iryna.hryhoriv1@gmail.com
 3. **Telegram:** @Iryna_Black
 4. **Discord:**   IrynaBlack#8346
 
----------------------     ----------------------
-Focused on creating collaborative effort and between support and engineering teams to implement system
+---------------------     ---------------------
+
+<p><h3>Focused on creating collaborative effort and between support and engineering teams to implement system
 or product level changes to benefit end users. Ability to learn quickly, often in high pressure situations, in
 order to fully understand a new product, platform or any mixture of the two.
 I carefully check the smallest details, do an excellent cope with several tasks at once. I like to write clear,
-structured documents.
-
+structured documents.<h3></p>
+</main>
 ---------------------------------------------------
 
-Skills
-------
+<h2>Skills</h2>
 
-Data Bases: 
+<h3>Data Bases:</h3> 
 <nav>
   | <a href="/SQL/">SQL</a> |
 
 </nav>
 
-Automathion tools: 
+<h3>Automathion tools:</h3> 
 
 <nav>
   <a href="/https://html.com/">HTML</a> |
@@ -45,9 +52,9 @@ Automathion tools:
 
 </nav>
 
+<br>
+<h2>Code</h2> 
 
-Code 
-----
 
 ```
 const rps = (p1, p2) => {
@@ -64,26 +71,39 @@ const rps = (p1, p2) => {
   }
 };
 ```
-Education
----------
-2022-2023 (expected)
-:   **Master, Computer Science in JS/FE**; RS SCHOOL [RS School](https://rs.school/).
+<h2>Education</h2>
+<br>
+<p><h3>2022-2023 (expected)
+:   **Master, Computer Science in JS/FE**; RS SCHOOL [RS School](https://rs.school/).<h3></p>
 
-Experience
-----------
-**Job search**
+<h2>Experience<h2>
 
-Languages:
-----------
+<p><h3>Job search</h3></p>
 
-    1. English   - Intermediate
-    2. Ukrainian - Native
-    3. Russian   - Native
-   
+<h2>Languages:<h2>
+    <ol><h3>
+    <li> English   - Intermediate</li>
+    <li> Ukrainian - Native</li>
+    <li> Russian   - Native</li>
+
+   </h4></ol>
 
 ----------------------------------------------------
 
 
-<span style="font-family:Papyrus; font-size:4em;">2022</span>&ensp;&emsp;&ensp;
-[![(assets/img/RSSchool.jpg)](assets/img/RSSchoollogosmall.jpg )](https://rs.school/js/)&ensp;&ensp;&emsp;[![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages)&ensp;&ensp;&emsp;
- 
+<footer>
+
+<p style="float:left; width: 20%;">
+<span style="font-family:Papyrus; font-size:2em;">2022</span>
+</p>
+
+<p style="float:left; width:0%; text-align:center;">
+
+[![(assets/img/RSSchool.jpg)](assets/img/RSSchoollogosmall.jpg )](https://rs.school/js/)
+</p>
+<p style="float:left; width: 40%; text-align:center;">
+
+[![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages)
+</p>
+
+</footer>
