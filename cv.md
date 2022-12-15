@@ -90,19 +90,14 @@ Languages:
 ---------------------
 
 
-<p style="float:left; width: 20%;">
+
 <span style="font-family:Papyrus; font-size:2em;">2022</span></p>
 
-<p style="float:left; width:60%; text-align:center;">
+
 
 [![](./assets/img/RSSchoollogosmall.jpg)](https://rs.school/js/)
-
-</p>
-
-
-<p style="float:left; width: 20%;">
 
 
 [![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages)
 
-</p>
+
