@@ -11,7 +11,7 @@
  </header>
  
 ---------------------
-<main>
+
 <h2>Contact information:<h2>
 
 1. **Location:**  Irvine, USA
@@ -20,13 +20,14 @@
 4. **Discord:**   IrynaBlack#8346
 
 ---------------------     ---------------------
-
+<main>
 <p><h3>Focused on creating collaborative effort and between support and engineering teams to implement system
 or product level changes to benefit end users. Ability to learn quickly, often in high pressure situations, in
 order to fully understand a new product, platform or any mixture of the two.
 I carefully check the smallest details, do an excellent cope with several tasks at once. I like to write clear,
 structured documents.<h3></p>
 </main>
+
 ---------------------------------------------------
 
 <h2>Skills</h2>
@@ -72,9 +73,9 @@ const rps = (p1, p2) => {
 };
 ```
 <h2>Education</h2>
-<br>
+
 <p><h3>2022-2023 (expected)
-:   **Master, Computer Science in JS/FE**; RS SCHOOL [RS School](https://rs.school/).<h3></p>
+:<br> Master, Computer Science in JS/FE; RS SCHOOL [RS School](https://rs.school/).<h3></p>
 
 <h2>Experience<h2>
 
@@ -101,6 +102,7 @@ const rps = (p1, p2) => {
 [![(assets/img/RSSchool.jpg)](assets/img/RSSchoollogosmall.jpg )](https://rs.school/js/)
 </p>
 <p style="float:left; width: 40%; text-align:center;">
+
 
 [![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages)
 </p>
