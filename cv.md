@@ -99,10 +99,8 @@ Languages:
 <span style="font-family:Papyrus; font-size:2em;">2022</span></p>
 
 
-<footer>
 
 [![][schoolLogo]][schoolLink]
 
 [![][githubLogo]][githubLink]
 
-</footer>
