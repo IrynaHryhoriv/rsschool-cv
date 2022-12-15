@@ -1,10 +1,9 @@
 
- <img src="assets/img/imagesCVtest.jpeg" alt="alt text" title="MyPhoto" width="150"/>
-
-Iryna Hryhoriv 
+ 
+ 
+ <img src="assets/img/imagesCVtest.jpeg" alt="alt text" title="MyPhoto" width="100"/>&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Iryna Hryhoriv 
 ==============
-
----------------------     ---------------------
+---------------------
 
 Contact information:
 --------------------
@@ -25,9 +24,27 @@ structured documents.
 Skills
 ------
 
-Data Bases: SQL.
+Data Bases: 
+<nav>
+  | <a href="/SQL/">SQL</a> |
 
-Git, Java, JS, Selenium, Cypress, Node.js, Slack.
+</nav>
+
+Automathion tools: 
+
+<nav>
+  <a href="/https://html.com/">HTML</a> |
+  <a href="/css/">CSS</a> |
+  <a href="/js/">JavaScript</a> |
+  <a href="/python/">Python</a> |
+  <a href="/git/">Git</a> |
+  <a href="/https://html.com/">HTML</a> |
+  <a href="/Node.js/">Node.js</a> |
+  <a href="/java/">Java</a> |
+  <a href="/Selenium/">Selenium</a> 
+
+</nav>
+
 
 Code 
 ----
@@ -47,7 +64,6 @@ const rps = (p1, p2) => {
   }
 };
 ```
-
 Education
 ---------
 2022-2023 (expected)
@@ -65,14 +81,9 @@ Languages:
     3. Russian   - Native
    
 
-
 ----------------------------------------------------
-<span style="font-family:Papyrus; font-size:4em;">2022</span> 
-
-<img src="assets/img/RSSchool.jpg" alt="alt text" title="image Title" width="150"/>
-
-[![(assets/img/RSSchool.jpg)](assets/img/RSSchool.jpg )](https://rs.school/js/)
-[![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv)
 
 
-
+<span style="font-family:Papyrus; font-size:4em;">2022</span>&ensp;&emsp;&ensp;
+[![(assets/img/RSSchool.jpg)](assets/img/RSSchoollogosmall.jpg )](https://rs.school/js/)&ensp;&ensp;&emsp;[![(assets/img/GitHub.jpeg")](assets/img/GitHub.jpeg )](https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages)&ensp;&ensp;&emsp;
+ 
