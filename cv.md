@@ -2,56 +2,41 @@
 [schoolLink]: https://rs.school/js/
 [githubLogo]: /assets/img/GitHub.jpeg
 [githubLink]: https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages
+[profileLogo]: /assets/img/imagesCVtest.jpeg
 
- 
-<header>
-  <p style="float:left; width: 20%;">
-    <img src="assets/img/imagesCVtest.jpeg" alt="alt text" title="MyPhoto" width="100"/>
-  </p>
+                                                IRYNA HRYHORIV
 
-  <p style="float:left; width: 40%; text-align:left;">
-    <h1>Iryna Hryhoriv</h1> 
-    <div style="height:50px;display:box"></div>
-  </p>
-</header>
- 
+![][profileLogo]
+
 ---
 Contact information:
 --------------------
 
 1. **Location:**  Irvine, USA
 2. **E-mail:**    iryna.hryhoriv1@gmail.com
-3. **Telegram:** @Iryna_Black
+3. **Telegram:**  @Iryna_Black
 4. **Discord:**   IrynaBlack#8346
-
 ---
 
-Focused on creating collaborative effort and between support and engineering teams to implement system
-or product level changes to benefit end users. Ability to learn quickly, often in high pressure situations, in
-order to fully understand a new product, platform or any mixture of the two.
-I carefully check the smallest details, do an excellent cope with several tasks at once. I like to write clear,
-structured documents.
+Focused on creating collaborative effort and between support and engineering teams to implement system or product level changes to benefit end users.
+Ability to learn quickly, often in high pressure situations, in order to fully understand a new product, platform or any mixture of the two.
+I carefully check the smallest details, do an excellent cope with several tasks at once. 
+I like to write clear and well-structured documents.
 
 ---
 
 Skills
 ------
 
-<nav>
-
-  <a href="https://html.com">HTML</a> |
-  <a href="/css/">CSS</a> |
-  <a href="/js/">JavaScript</a> |
-  <a href="/python/">Python</a> |
-  <a href="/git/">Git</a> |
-  <a href="/sql/">SQL</a> |
-  <a href="/Node.js/">Node.js</a> |
-  <a href="/java/">Java</a> |
-  <a href="/Selenium/">Selenium</a> 
-
-</nav>
-
-<br>
+[HTML](https://html.com) | 
+[CSS](https://css.com) | 
+[JavaScript](https://javascript.com) | 
+[Python](https://python.com) | 
+[Git](https://git.com) | 
+[SQL](https://sql.com) | 
+[Node.js](https://node.js) | 
+[Java](https://java.com) | 
+[Selenium](https://selenium.com)
 
 Code 
 ----
@@ -73,26 +58,23 @@ const rps = (p1, p2) => {
 
 Education
 ---------
-2022-2023 (expected): **Master, Computer Science in JS/FE**; [RS School](https://rs.school/).
+2022-2023 (expected): **Master, Computer Science in JS/FE**; [RS School](https://rs.school).
 
 Experience
 ----------
-
-
-**Job search**
+**Open for jobs opportunity**
 
 
 Languages:
 ----------
 
-    * English   - Intermediate
-    * Ukrainian - Native
-    * Russian   - Native
+* English   - Intermediate
+* Ukrainian - Native
+* Russian   - Native
 
 ---------------------
 
-|      |      |      |
-| :--- |  --- | ---: |
-| 2022 |[![][schoolLogo]][schoolLink] |
-|      |[![][githubLogo]][githubLink] |
+2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![][schoolLogo]][schoolLink]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![][githubLogo]][githubLink]
 
