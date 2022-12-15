@@ -95,8 +95,9 @@ Languages:
 
 <p style="float:left; width:60%; text-align:center;">
 
+[![](./assets/img/RSSchoollogosmall.jpg)](https://rs.school/js/)
 
-[![(assets/img/RSSchool.jpg)](assets/img/RSSchoollogosmall.jpg )](https://rs.school/js/)</p>
+</p>
 
 
 <p style="float:left; width: 20%;">
