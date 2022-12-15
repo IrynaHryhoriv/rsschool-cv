@@ -3,6 +3,7 @@
  
  <img src="assets/img/imagesCVtest.jpeg" alt="alt text" title="MyPhoto" width="100"/>&ensp;&emsp;&ensp;&emsp;&ensp;&emsp;Iryna Hryhoriv 
 ==============
+
 ---------------------
 
 Contact information:
@@ -12,7 +13,8 @@ Contact information:
 3. **Telegram:** @Iryna_Black
 4. **Discord:**   IrynaBlack#8346
 
----------------------     ----------------------
+---------------------     ---------------------
+
 Focused on creating collaborative effort and between support and engineering teams to implement system
 or product level changes to benefit end users. Ability to learn quickly, often in high pressure situations, in
 order to fully understand a new product, platform or any mixture of the two.
