@@ -4,11 +4,12 @@
 [githubLink]: https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages
 [profileLogo]: /assets/img/imagesCVtest.jpeg
 
-                                                IRYNA HRYHORIV
+                                            IRYNA HRYHORIV
 
 ![][profileLogo]
 
 ---
+
 Contact information:
 --------------------
 
@@ -16,6 +17,8 @@ Contact information:
 2. **E-mail:**    iryna.hryhoriv1@gmail.com
 3. **Telegram:**  @Iryna_Black
 4. **Discord:**   IrynaBlack#8346
+   
+
 ---
 
 Focused on creating collaborative effort and between support and engineering teams to implement system or product level changes to benefit end users.
@@ -31,15 +34,18 @@ Skills
 [HTML](https://html.com) | 
 [CSS](https://css.com) | 
 [JavaScript](https://javascript.com) | 
-[Python](https://python.com) | 
-[Git](https://git.com) | 
-[SQL](https://sql.com) | 
-[Node.js](https://node.js) | 
+[Python](https://www.python.org/) | 
+[Git](https://git-scm.com/) | 
+[SQL](https://www.w3schools.com/sql/) | 
+[Node.js](https://nodejs.org/en/) | 
 [Java](https://java.com) | 
-[Selenium](https://selenium.com)
+[Selenium](https://www.selenium.dev/)
+
+----
 
 Code 
 ----
+
 ```js
 const rps = (p1, p2) => {
   if(p1===p2){
@@ -55,15 +61,19 @@ const rps = (p1, p2) => {
   }
 };
 ```
+----
 
 Education
 ---------
-2022-2023 (expected): **Master, Computer Science in JS/FE**; [RS School](https://rs.school).
+2022-2023 (expected): Master, Computer Science in JS/FE;  [RS School](https://rs.school).
+
+----
 
 Experience
 ----------
 **Open for jobs opportunity**
 
+----
 
 Languages:
 ----------
@@ -72,9 +82,7 @@ Languages:
 * Ukrainian - Native
 * Russian   - Native
 
----------------------
+-----
 
-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![][schoolLogo]][schoolLink]
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![][githubLogo]][githubLink]
+2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![][schoolLogo]][schoolLink]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![][githubLogo]][githubLink]
 
