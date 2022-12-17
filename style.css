@@ -2,10 +2,17 @@
 
 * {
     box-sizing: border-box;
-    margin: 20;
-    padding: 20;
-    
 }
+
+.box {
+    width: 100px;
+    height: 100px;
+  
+    padding: 20px;
+    margin: 10px;
+  
+    border: 1px solid #fff;
+  }
 
   div {
     background-color: rgb(206, 18, 18);
@@ -229,7 +236,7 @@ html {
 }  
 
 pre code {
-    background-color: #eee;
+    background-color: rgb(205, 196, 196);
     border: 1px solid #999;
     display: block;
     padding: 20px;
