@@ -2,9 +2,27 @@
 
 * {
     box-sizing: border-box;
+    margin: 20;
+    padding: 20;
+    
+}
+
+  div {
+    background-color: rgb(206, 18, 18);
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
   }
 
-  .navbar {
+.section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+}  
+.navbar {
     background: #b8e4f6;
     height: 80px;
     display: flex;
@@ -55,15 +73,16 @@
     font-weight: 300;
   }
 
-body {
-    background-color: lightblue;
+  body {
     font-family: 'Roboto', sans-serif;
-    font-family: 'Roboto';
-    font-weight: 300;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #4d2323;
   }
 
   h1 {
-    color: white;
+    color: rgb(20, 74, 5);
     text-align: center;
   }
   
@@ -82,7 +101,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.5;
-    color: #b14e4e;
+    color: #040000;
   }
   .link {
     text-decoration: none;
@@ -92,6 +111,11 @@ body {
   
   .link:hover {
     color: #5d7260;
+  }
+
+  .footer {
+    height:  50px;
+    margin-top: -50px;
   }
 
   .footer__container {
@@ -153,19 +177,87 @@ body {
 }
 
 @media screen and (max-width: 820px) {
-    .footer__links {
-        padding-top: 2rem;
-    }
-
-    #footer__logo {
-        margin-bottom: 2rem;
-    }
-
-    .website__rights {
-        margin-bottom: 2rem;
-    }
-
-    .footer__link--wrapper {
-        flex-direction: column;
-    }
+.footer__links {
+    padding-top: 2rem;
 }
+
+#footer__logo {
+    margin-bottom: 1rem;
+}
+
+.website__rights {
+    margin-bottom: 2rem;
+}
+
+.footer__link--wrapper {
+    flex-direction: column;
+}
+}
+
+html {
+    scroll-behavior: smooth; 
+}
+
+.nav-list {
+    list-style: none;
+}  
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    }
+.nav-link {
+    transition: .3s;
+}
+    
+.section-item a {
+    color: #829985;
+    text-decoration: none;  
+    transition: color 0.5s;
+    }
+.section-item a:hover {
+    color: #3b09d0;
+    }
+    
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    }
+      
+.section {
+    width: 50%;
+}  
+
+pre code {
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+}
+  div {
+    background-color: lightgreen;
+    inline-size: 70%;
+    border-block-width: 5px;
+  }
+
+  
+  div {
+    background-color: lightgreen;
+    inline-size: 70%;
+    border-block-end-style: solid;
+    border-block-end-width: 10px;
+  }
+  div{
+    float:left;
+    background-color:moccasin;
+    width:100px;
+    height:100px;    
+    border-bottom:1px solid tomato;
+    border-right:1px solid tomato;
+    }
+    div:first-child{
+    border-left:1px solid tomato;
+    }
+    div.first-row {
+    border-top: 1px solid tomato;
+    }
