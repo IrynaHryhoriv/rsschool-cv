@@ -82,7 +82,7 @@
   }
 
   h1 {
-    color: rgb(20, 74, 5);
+    color: rgb(202, 27, 129);
     text-align: center;
   }
   
@@ -260,4 +260,4 @@ pre code {
     }
     div.first-row {
     border-top: 1px solid tomato;
-    }
+}
