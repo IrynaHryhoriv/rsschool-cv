@@ -1,77 +1,120 @@
 <!DOCTYPE html>
-<header class = "header">
-    <div>class = "conteiner" 
-        .container {
-            max-width: 1440px;
-            margin: 0 auto;
-          }
-    </div>
-    <nav class="nav">
-        <ul class="nav-list">
-          <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
-          <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
-          <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
-        </ul>
-      </nav>
-      .nav-list {
-        list-style: none;
-      }
-      .nav-link {
-        padding: 0 20px;
-        line-height: 50px;
-      }
-      .section-item a {
-        color: #829985;
-        text-decoration: none;  
-        transition: color 0.5s;
-      }
-      .section-item a:hover {
-        color: #4d2323;
-      }
-</header>
-
-<main class = "main">
-    <div>class = "conteiner" 
-        .container {
-            max-width: 1440px;
-            margin: 0 auto;
-          }
-    </div>
-    .main-container {
-        display: flex;
-        flex-wrap: wrap;
-      }
-      
-      .section {
-        width: 50%;
-      }
-      @media (max-width: 768px) {
-        .section {
-          width: 100%;
-        }
-      }
-</main>
-
-<footer class = "footer">
-    <div>class = "conteiner" 
-        .container {
-            max-width: 1440px;
-            margin: 0 auto;
-          }
-    </div>
-
-</footer>
 <html lang="en">
 <head>
-  <title>CV</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="assets/img/RSSchool.ico">
-  <link rel="preconnect" href="https://fonts.gstatic.com">  
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+    <link rel="icon" href="assets/img/RSSchool.ico">
+    <link rel="preconnect" href="https://fonts.gstatic.com">  
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+    <style>
+        
+        body {
+            background-color: rgb(237, 231, 182);
+        }
+
+        .content {
+
+            max-width: 960px;
+            margin: auto;
+        }
+
+    </style>
+
 </head>
 <body>
-    <p>Iryna</p>
-        <img src="imagesCVtest.jpeg" alt="photo" width="104" height="142">
-</body>
+    <header style = "background-color:rgb(240, 97, 204); height:60px">
 
+    <img src='./assets/img/imagesCVtest.jpeg' alt="My"height="60">
+
+        <center> <top><h1> Iryna Hryhoriv </h1></top></center>
+     
+    </header>
+
+    <main>
+    <link scr="./assets/img/imagesCVtest.jpeg" alt="MyLogo" >
+
+    
+   <h2>Contact information:</h2>
+
+   <ol>
+    <li>Location:   Irvine, USA</li>
+    <li>E-mail:     iryna.hryhoriv1@gmail.com</li>
+    <li>Telegram:   @Iryna_Black</li>
+    <li>Discord:    IrynaBlack#8346</li>
+  </ol>
+
+
+<p> Focused on creating collaborative effort and between support and engineering teams to implement system or product level changes to benefit end users.<br>
+    Ability to learn quickly, often in high pressure situations, in order to fully understand a new product, platform or any mixture of the two.<br>
+    I carefully check the smallest details, do an excellent cope with several tasks at once. 
+    I like to write clear and well-structured documents.</p>
+
+
+
+<h2>Skills</h2>
+
+    <nav>
+        <a href="https://html.com">HTML</a> |
+        <a href="https://css.com">CSS</a> |
+        <a href="https://javascript.com">JavaScript</a> |
+        <a href="https://www.python.org/">Python</a> |
+        <a href="https://git-scm.com/">GIT</a> |
+        <a href="https://www.w3schools.com/sql/">SQL</a> |
+        <a href="https://nodejs.org/en/">Node.js</a> |
+    </nav>
+
+
+<h2> Code </h2>
+<pre>
+    <code>
+    const rps = (p1, p2) => {
+        if(p1===p2){
+          return "Draw!"}
+        
+        else if(p1 === "scissors" && p2==="paper" ||
+                p1 === "rock" && p2 === "scissors"|| 
+                p1 === "paper" && p2 === "rock"){
+          return "Player 1 won!"}
+        
+        else {
+          return "Player 2 won!"
+        }
+    };
+    </code>
+</pre>
+
+<h2>Education</h2>
+
+<p>2022-2023 (expected): Master, Computer Science in JS/FE;  [RS School](https://rs.school).</p>
+
+
+
+<h2>Experience</h2>
+
+<b>Open for jobs opportunity</b>
+
+
+<h2>Languages:</h2>
+
+<ul>
+    <li>English   - Intermediate</li>
+    <li>Ukrainian - Native</li>
+    <li>Russian   - Native</li>
+  </ul>
+  
+
+<link rel="RSSchool" href="https://rs.school/js/">
+
+</main>
+ 
+<footer style = "background-color:rgb(237, 176, 232); height:60px">
+  
+    <a href="https://rs.school/js/"><img src="./assets/img/RSSchool.jpg" alt="RSSchool" style="width: 80; height:60px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=" https://github.com/IrynaHryhoriv/rsschool-cv/tree/gh-pages">
+    <img src="./assets/img/GitHub.jpeg" alt="GitHub" style="height:60px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;<b>2022</b>
+        
+</footer>
+</body>
 </html>
